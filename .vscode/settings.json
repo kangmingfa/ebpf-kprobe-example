@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "kprobe.skel.h": "c",
+        "vmlinux.h": "c",
+        "bpf_tracing.h": "c"
+    }
+}
